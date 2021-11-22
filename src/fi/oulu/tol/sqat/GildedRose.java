@@ -2,7 +2,6 @@ package fi.oulu.tol.sqat;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.zip.ZipEntry;
 
 public class GildedRose {
 
